@@ -1,3 +1,13 @@
+A tinder demo app is created with help of REACT JS .I used react hooks and react-tinder-cards .Also box-shadow used for more beautifull design.Icons used from material ui.With left and right swipe functionality.
+All data fetching from backend which is created with help of nodejs.Its complete mern project.
+
+home page
+![image](https://user-images.githubusercontent.com/34640475/122669036-ffd19b00-d1d8-11eb-9673-41d5a55fc408.png)
+
+backend for this tinder app
+https://github.com/kalanaveen/tinder-backend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
